@@ -5,8 +5,7 @@ Spring Core IoC + Maven Example
 * maven 3.5.3
 * Spring 4.2
 
-#### This project is entirely built with maven and spring on command line only; Further information on how to run is given 
-in Wiki section of repo.
+#### This project is entirely built with maven and spring on command line only; Further information on how to run and project directories tree view is given in Wiki section of repo.
 
 ### To import this project into Eclipse IDE
 
