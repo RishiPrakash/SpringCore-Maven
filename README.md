@@ -7,6 +7,11 @@ Spring Core IoC + Maven Example
 
 #### This project is entirely built with maven and spring on command line only; Further information on how to run and project directories tree view is given in Wiki section of repo.
 
+### How to run this project
+1. Download from github
+2. Do mvn eclipse:eclipse or mvn clean install
+3. Use the commnad to run = mvn exec:java -Dexec.mainClass="SpringCore.App"
+
 ### To import this project into Eclipse IDE
 
 1. $ mvn eclipse:eclipse
